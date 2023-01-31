@@ -10,4 +10,13 @@ From a programming perspective, the internet is a global network of connected de
 
 ## Question-2 :- What is Internet Protocol suite ?
 
-Answer :- The Internet Protocol Suite (also called TCP/IP) is a set of communication protocols used for the Internet and other similar networks. It defines the rules and standards for data transmission and provides end-to-end data communication services. The suite includes IP (Internet Protocol), TCP (Transmission Control Protocol), UDP (User Datagram Protocol), and many others.
+Answer :- The Internet Protocol Suite (also called TCP/IP) is a set of communication protocols used for the Internet and other similar networks. It defines the rules and standards for data transmission and provides end-to-end data communication services. The suite includes IP (Internet Protocol), TCP (Transmission Control Protocol), UDP (User Data gram Protocol), and many others.
+
+| Internet Protocol Suite | Variants         |
+| ----------------------- | ---------------- |
+| Application             | HTTP,SMTP,FTP    |
+| Transport               | TCP ,UDP         |
+| NetWork                 | IP               |
+| Data Link               | Physical Devices |
+
+---
